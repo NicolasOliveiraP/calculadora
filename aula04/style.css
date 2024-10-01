@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-family: "Open Sans Condesed", sans-serif;
+    color: white;
+}
+button{
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s;
+    align-items: center;
+}
+#exec{
+    color: aqua;
+}
+#dop{
+    color: blueviolet;
+}
